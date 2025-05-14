@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OdinWattz
-- 👀 I’m interested in nature, photography and travelling.
-- 🌱 I’m currently learning Python, Next.js and Laravel
+- 👀 I’m interested in Nature, Reading and Travelling.
+- 🌱 I’m currently learning Python, Next.js and Wordpress
 - 💞️ I’m looking to collaborate on (not now)
 - 📫 How to reach me go to my portfolio https://www.odinwattez.nl
 
