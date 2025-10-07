@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OdinWattz
 - 👀 I’m interested in Nature, Reading and Travelling.
-- 🌱 I’m currently learning Next.js
+- 🌱 I’m currently learning Next.js & React
 - 💞️ I’m looking to collaborate on (not now)
 - 📫 How to reach me go to my portfolio https://www.odinwattez.nl
 
