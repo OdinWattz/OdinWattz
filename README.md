@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hey,%20I'm%20Odin!&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Hobby%20Dev%20%7C%20%F0%9F%90%A2%20Slowly%20learning%20%E2%80%94%20but%20surely%20getting%20there&descAlignY=58&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,50:1a1a2e,100:16213e&height=280&section=header&text=Hey%2C%20I'm%20Odin!&fontSize=70&fontColor=58A6FF&animation=fadeIn&fontAlignY=40&desc=Hobby%20Dev%20%7C%20%F0%9F%90%A2%20Slowly%20learning%20%E2%80%94%20but%20surely%20getting%20there&descSize=20&descAlignY=62&descAlign=50&descColor=a0b4c8&stroke=58A6FF&strokeWidth=2" width="100%"/>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=540&lines=Full+Stack+Learner+%F0%9F%9A%80;Next.js+%26+React+Enthusiast+%E2%9A%A1;Rust+%26+JavaScript+Developer+%F0%9F%A6%80;Hobby+Dev+from+the+Netherlands+%F0%9F%87%B3%F0%9F%87%B1;Interested+in+Nature%2C+Reading+%26+Travel+%F0%9F%8C%BF)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=580&lines=Next.js+%26+React+Developer+%E2%9A%A1;TypeScript+%26+JavaScript+Enjoyer+%F0%9F%92%99;Building+cool+stuff+with+PHP+%26+Docker+%F0%9F%90%B3;Hobby+Dev+from+the+Netherlands+%F0%9F%87%B3%F0%9F%87%B1;Always+learning%2C+never+stopping+%F0%9F%90%A2;Nature+%7C+Reading+%7C+Travelling+%F0%9F%8C%BF)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=OdinWattz&color=58A6FF&style=for-the-badge&label=Profile+Views)
 
@@ -128,16 +128,6 @@
 
 ---
 
-## 💬 Dev Quote
-
-<div align="center">
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
----
-
 ## 🌐 Connect
 
 <div align="center">
@@ -149,4 +139,10 @@
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+<div align="center">
+
+![](https://hit.yhype.me/github/profile?user_id=OdinWattz)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:16213e,50:1a1a2e,100:0D1117&height=180&section=footer&text=Thanks%20for%20visiting!&fontSize=28&fontColor=58A6FF&animation=fadeIn&fontAlignY=55&stroke=58A6FF&strokeWidth=1" width="100%"/>
