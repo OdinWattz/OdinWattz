@@ -21,6 +21,14 @@
 🌐  Portfolio: https://www.odinwattez.nl
 ```
 
+<div align="center">
+
+[![Moon](https://moon-svg.minung.dev/moon.svg?theme=ray)](https://moon-svg.minung.dev)
+
+*🌙 Current moon phase*
+
+</div>
+
 ---
 
 ## 🛠️ Tech Stack
@@ -54,6 +62,9 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Claude AI](https://img.shields.io/badge/Claude%20AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 
+### Skill Icons
+[![Skill Icons](https://skillicons.dev/icons?i=js,ts,php,html,css,sass,python,rust,java,cs,nextjs,react,bootstrap,docker,git,vscode,github&theme=dark)](https://skillicons.dev)
+
 </div>
 
 ---
@@ -69,6 +80,10 @@
 <br/>
 
 <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OdinWattz&theme=tokyonight"/>
+
+<br/>
+
+[![GitHub Widgetbox](https://github-widgetbox.vercel.app/api/profile?username=OdinWattz&data=followers,repositories,stars,commits&theme=viridescent)](https://github.com/Jurredr/github-widgetbox)
 
 </div>
 
@@ -93,11 +108,41 @@
 
 ---
 
+## 🏅 GitHub Profile Trophy
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=OdinWattz&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
 ## 📈 Activity Graph
 
 <div align="center">
 
 [![Odin's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=OdinWattz&theme=tokyo-night&hide_border=true&bg_color=0D1117)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+![Snake animation](https://github.com/OdinWattz/OdinWattz/raw/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+## 💬 Dev Quote
+
+<div align="center">
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
 
