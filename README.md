@@ -63,7 +63,12 @@
 <div align="center">
 
 <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=OdinWattz&theme=tokyonight"/>
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=OdinWattz&theme=tokyonight"/>
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=OdinWattz&theme=tokyonight&exclude=magic-portfolio"/>
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=OdinWattz&theme=tokyonight&exclude=magic-portfolio"/>
+
+<br/>
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OdinWattz&theme=tokyonight"/>
 
 </div>
 
