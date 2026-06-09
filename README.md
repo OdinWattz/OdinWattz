@@ -36,6 +36,7 @@
 <div align="center">
 
 ### Languages
+
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -51,11 +52,13 @@
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 
 ### Frameworks & Libraries
+
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### Tools & Platforms
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -63,6 +66,7 @@
 ![Claude AI](https://img.shields.io/badge/Claude%20AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 
 ### Skill Icons
+
 [![Skill Icons](https://skillicons.dev/icons?i=js,ts,php,html,css,sass,python,rust,java,cs,nextjs,react,bootstrap,docker,git,vscode,github&theme=dark)](https://skillicons.dev)
 
 </div>
@@ -75,17 +79,13 @@
 
 <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=OdinWattz&theme=tokyonight"/>
 <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=OdinWattz&theme=tokyonight&exclude=magic-portfolio"/>
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=OdinWattz&theme=tokyonight&exclude=magic-portfolio"/>
-
-<br/>
-
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OdinWattz&theme=tokyonight"/>
 
 <br/>
 
 [![GitHub Widgetbox](https://github-widgetbox.vercel.app/api/profile?username=OdinWattz&data=followers,repositories,stars,commits&theme=viridescent)](https://github.com/Jurredr/github-widgetbox)
 
 </div>
+
 
 <div align="center">
 
