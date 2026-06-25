@@ -65,7 +65,7 @@
 
 ### Skill Icons
 
-[![Skill Icons](https://skillicons.dev/icons?i=js,ts,php,html,css,sass,python,rust,java,cs,nextjs,react,bootstrap,docker,git,vscode,github&theme=dark)](https://skillicons.dev)
+[![Skill Icons](https://skillicons.dev/icons?i=js,ts,php,html,css,sass,python,java,cs,nextjs,react,bootstrap,docker,git,vscode,github&theme=dark)](https://skillicons.dev)
 
 </div>
 
